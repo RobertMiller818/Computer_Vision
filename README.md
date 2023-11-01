@@ -7,7 +7,7 @@ In recent times, the field of agriculture has been in urgent need of modernizing
 
 ### Objective
 
-The aim of this project is to Build a Convolutional Neural Netowrk to classify plant seedlings into their respective categories.
+The aim of this project is to Build a Convolutional Neural Network to classify plant seedlings into their respective categories.
 
 ### Data Dictionary
 
